@@ -1,0 +1,25 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: red;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav a {
+  color: white;
+  padding: 10px 15px;
+  margin: 0 15px;
+  background-color: blue;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: green;
+}
